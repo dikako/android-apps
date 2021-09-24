@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-apps</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="proses">Button</string>
+    <string name="hasil">Hasil:</string>
+</resources>
